@@ -1,0 +1,3 @@
+#generate HTML and PDF
+
+ python build.py world ../scratch-curriculum/it-IT/Term\ 1/ TEST

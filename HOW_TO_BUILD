@@ -1,0 +1,3 @@
+to buld HTML and PDF run
+
+python build.py world ../scratch-curriculum/it-IT/Trimestre_1/ BUIL_DIR
